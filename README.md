@@ -19,5 +19,4 @@ Date Formatting & Querying: Reformatting book_date columns to specific date form
 Tools:
 
 -SQL: Queries were written in SQL to retrieve and manipulate data from the airline database.
-
 -Airline Database: Hosted database containing flights, bookings, and ticket data.
