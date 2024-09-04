@@ -1,4 +1,5 @@
 SQL Capstone Project: Airline Database Analysis ✈️
+
 This project involves the comprehensive analysis of an airline database to answer a series of complex SQL queries. The database includes tables such as Flights, Bookings, Tickets, and more, allowing for in-depth exploration of airline operations, customer behaviors, and flight details.
 
 Project Overview:
