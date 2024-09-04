@@ -1,12 +1,12 @@
 SQL Capstone Project: Airline Database Analysis ✈️
 
-This project involves the comprehensive analysis of an airline database to answer a series of complex SQL queries. The database includes tables such as Flights, Bookings, Tickets, and more, allowing for in-depth exploration of airline operations, customer behaviors, and flight details.
+This project involves the comprehensive analysis of an airline database to answer a series of complex SQL queries. The database includes tables such as Flights, Bookings, Tickets, and more, allowing for an in-depth exploration of airline operations, customer behaviours, and flight details.
 
 
 
 Project Overview:
 
-This capstone project aims to showcase proficiency in SQL by solving real-world airline data challenges, such as identifying highest and lowest-paying customers, analyzing flight details, and tracking cancellations. The project demonstrates the ability to write efficient SQL queries to extract meaningful insights from the airline dataset.
+This capstone project aims to showcase proficiency in SQL by solving real-world airline data challenges, such as identifying the highest and lowest-paying customers, analyzing flight details, and tracking cancellations. The project demonstrates the ability to write efficient SQL queries to extract meaningful insights from the airline dataset.
 
 
 
@@ -20,11 +20,11 @@ Date Formatting & Querying: Reformatting book_date columns to specific date form
 
 -Journey Analysis: Distinguishing between nonstop and return journeys based on ticket information.
 
--Flight Details: Extracting information about the longest flights, morning flights, and canceled flights, among others.
+-Flight Details: Extracting information about the longest flights, morning flights, and cancelled flights, among others.
 
--Refund Calculation: Identifying customers eligible for refunds due to flight cancellations and calculating the refund amounts.
+-Refund Calculation: Identify customers eligible for refunds due to flight cancellations and calculate the refund amounts.
 
--Aircraft & Flight Insights: Analyzing flights using specific aircraft types, such as Airbus and Boeing, and filtering flights based on criteria such as range and cancellations.
+Aircraft & Flight Insights: This tool analyzes flights using specific aircraft types, such as Airbus and Boeing, and filters flights based on criteria such as range and cancellations.
 
 
 
